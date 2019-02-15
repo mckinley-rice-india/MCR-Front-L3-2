@@ -1,9 +1,15 @@
-Front End Challenge
-====================
 
-This code challenge allows you to choose your own path and lets you flaunt your creative panache and technical skills along the way. Spend as little or as much time as you would like to complete your chosen path. Get as much completed as you can, with the focus on functionality over design.
+# Mckinley & Rice Front End Coding Challenge
 
-In a fictional world, we are branching into the music business and need a new a website. This website needs to display the top 100 songs based on the iTunes API.   
+> Welcome to the Mckinley & Rice Coding Challenge!
+
+
+## Overview
+
+To complete this challenge, you will need to write a  web app, and provide us the source files to be built.
+
+
+This challenge is expected to take about 2-4 hours.
 
 #### Base Requirements For All Levels
 -------
